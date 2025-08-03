@@ -14,10 +14,9 @@ You can explore it here:
 
 If you wish to cite or reference this project:
 
-> Claire L. Price. *The Enigmatic EQA*. GitHub Pages. https://claireprice.github.io/The-Enigmatic-EQA/  
-> DOI: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+Price, C. L. (2025). The Enigmatic EQA (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16733330
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16733330.svg)](https://doi.org/10.5281/zenodo.16733330)
 
 ---
 
