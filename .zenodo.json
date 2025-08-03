@@ -1,0 +1,23 @@
+{
+  "title": "The Enigmatic EQA",
+  "upload_type": "software",
+  "description": "An interactive website exploring the External Quality Assurance",
+  "creators": [
+    {
+      "name": "Price, Claire",
+      "affiliation": "Swansea University",
+      "orcid": "https://orcid.org/0000-0002-6045-4835"
+    }
+  ],
+  "keywords": [
+    "interactive", "EQA", "QC", "web-based"
+  ],
+  "license": "MIT",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://claireprice.github.io/The-Enigmatic-EQA/"
+    }
+  ],
+  "version": "1.0.0"
+}
